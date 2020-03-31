@@ -1,0 +1,34 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Delly - Delivery inteligente",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/server.js",
+    "test": "cross-env NODE_ENV=teste jest"
+  },
+  "keywords": [],
+  "author": "Felipe Alves",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "cross-env": "^7.0.2",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "knex": "^0.20.13",
+    "mysql": "^2.18.1",
+    "yup": "^0.28.3"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-import": "^2.20.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "husky": "^4.2.1",
+    "lint-staged": "^10.0.7",
+    "nodemon": "^2.0.2",
+    "jest": "^25.2.3",
+    "supertest": "^4.0.2"
+  }
+}
