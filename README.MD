@@ -62,16 +62,9 @@ git clone https://github.com/felipealvescosta/delly-whats.git
 ```sh
 yarn install
 ```
-3. Run android project
+
 ```sh
-yarn android
-```
-3. Run ios project
-```sh
-cd ios && pod install
-```
-```sh
-yarn ios
+3. yarn start
 ```
 
 
