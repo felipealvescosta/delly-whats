@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screen/logo.png" alt="Logo">
+  <img src="screen/logo.png" alt="Logo" width="20%">
 
 
   <h2 align="center">Delly for WhatsApp</h2>
@@ -89,7 +89,7 @@ Contributions are what make the open source community such an amazing place to b
 ## Screenshots
 
 <p align="center">
-  <img src="screen/bannerscreen.png" width="40%" />
+  <img src="screen/bannerscren.png" width="40%" />
 </p>
 
 
