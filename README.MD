@@ -7,7 +7,7 @@
   <p align="center">
     <strong>Sale with your WhatsApp</strong>
     <br />
-    <small>A simples catalog for products in your WhatsApp</small>
+    <small>A simple catalog for products in your WhatsApp</small>
     <br />
     <br />
     <center>
@@ -24,7 +24,6 @@
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Installation](#installation)
-* [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [Screenshots](#screenshots)
 * [Contact](#contact)
@@ -95,4 +94,4 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Contact
 
-[Felipe Alves](https://felipealvescosta.com) - [LinkedIn](https://www.linkedin.com/in/felipealvescosta/) - [GitHub](https://github.com/felipealvescosta)
+[Felipe Alves](https://felipealvescosta.com) - [LinkedIn](https://www.linkedin.com/in/felipealvesdacosta/) - [GitHub](https://github.com/felipealvescosta)
