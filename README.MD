@@ -89,7 +89,7 @@ Contributions are what make the open source community such an amazing place to b
 ## Screenshots
 
 <p align="center">
-  <img src="screen/bannerscren.png" width="40%" />
+  <img src="screen/bannerscren.png" width="100%" />
 </p>
 
 
