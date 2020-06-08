@@ -63,8 +63,9 @@ git clone https://github.com/felipealvescosta/delly-whats.git
 yarn install
 ```
 
+3. Run Project
 ```sh
-3. yarn start
+yarn start
 ```
 
 
